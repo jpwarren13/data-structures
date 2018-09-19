@@ -3,6 +3,6 @@ var Queue = function() {
   // but try not not reference your old code in writing the new style.
 };
 
-var queueMethods = {};
+var queueMethods = {enqueue: function(st};
 
 
